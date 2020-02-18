@@ -2,4 +2,4 @@
 description: Productive
 order: 2
 ---
-One-line install, one-line calculation: work in Python, on any OS, with the power of all the Python scientific environment (Numpy, Scipy, Anaconda etc.).
+[One-line install](https://radis.readthedocs.io/en/latest/#getting-started), one-line calculation: work in Python, on any OS, with the power of all the Python scientific environment (Numpy, Scipy, Anaconda etc.).
