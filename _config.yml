@@ -15,5 +15,16 @@ kramdown:
 plugins:
   - jekyll-sitemap
 
+twitter:
+  username: radis_radiation
+defaults:
+  - scope:
+      path: ""
+    values:
+      image:
+        path: /img/radis_ico.png
+        height: 1000
+        width: 1000
+        
 # Google Analytics
 google_analytics: UA-113616205-2
