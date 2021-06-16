@@ -1,5 +1,5 @@
 ---
-description: Analysis
+description: Post-Process Analysis
 order: 1
 ---
-Comes with [post-processing tools](https://radis.readthedocs.io/en/latest/spectrum/spectrum.html) to plot and compare with experimental spectra. Unit support, fitting, instrumental functions, etc. 
+Comes with [post-processing tools](https://radis.readthedocs.io/en/latest/spectrum/spectrum.html) for spectra computed by RADIS or other codes. Plot and and compare with experimental spectra, with unit support, fitting, instrumental functions, etc. 
