@@ -1,0 +1,11 @@
+Old
+---
+Light Green : #30C328
+Dark : #3A0358
+
+New 
+---
+Black 080708
+Purple #7A306C
+White #FFFFFF
+Green #31E981
